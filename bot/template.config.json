@@ -1,0 +1,9 @@
+{
+    "BOT_TOKEN": "",
+    "PREFIX": "!",
+    "COLOR": "#A4d765",
+    "DISCORD_CHANNEL_ID": {
+        "CHAT": "",
+        "LOGS": ""
+    }
+}
